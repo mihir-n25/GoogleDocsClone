@@ -1,10 +1,8 @@
-import './App.css';
+import TextEditor from "./TextEditor";
 
 function App() {
   return (
-    <div className="App">
-      <h1>CodeUnity Coding.</h1>
-    </div>
+    <TextEditor/>
   );
 }
 
